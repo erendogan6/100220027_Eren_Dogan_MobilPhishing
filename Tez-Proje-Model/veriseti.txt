@@ -1,0 +1,7 @@
+Legal:
+https://data.mendeley.com/datasets/n96ncsr5g4/1
+https://www.kaggle.com/datasets/huntingdata11/phishing-website-html-classification
+https://www.kaggle.com/datasets/jackcavar/malicious-and-benign-website-dataset/data
+
+Phishing: https://data.mendeley.com/datasets/n96ncsr5g4/1
+https://zenodo.org/records/4922598@
